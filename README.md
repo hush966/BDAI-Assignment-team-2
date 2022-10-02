@@ -1,10 +1,22 @@
-# BDAI-Assignment-team-2
-
+![image](https://user-images.githubusercontent.com/49952739/193455897-fd9e2b78-031f-4137-b33a-01f6b5f8c5d9.png)
+# Titanic Data Visualization
+The sinking of the ocean liner RMS Titanic on April 15, 1912 was one of the most dramatic events of the twentieth century. In a mere four hours after striking an iceberg, the largest passenger ship yet built sank while on its maiden voyage, claiming the lives of over 1,500 persons.
 
 # Resources
 
+<h3>Data imported from Seaborn library</h3>
 
-
+```
+import seaborn as sns 
+import matplotlib.pyplot as plt
+%matplotlib inline
+```
+```
+sns.set_style('whitegrid')
+```
+```
+titanic = sns.load_dataset('titanic')
+```
 # Team Memebers
 
 - [Mahmuod Alhassan](https://github.com/alhassanm)
@@ -12,5 +24,7 @@
 - [Afnan Alzahrani](https://github.com/AfnanAlzahrani)
 - [Batool Alhajaji](https://github.com/Batool247)
 - [Abdullah Huwaishel](https://github.com/Batool247)
+- [Amjad Almusallam](https://github.com/ASM650)
 
-# SDA - Data Analysts - Data Analysts VS Data Mining - CodingDojo - Data Mining
+# SDA - Data Analysts - Data Visualization - CodingDojo - Pandas
+![image](https://user-images.githubusercontent.com/49952739/193455834-b810a22f-1a2f-43cc-8a59-0b36485b615a.png)
