@@ -31,7 +31,7 @@ titanic = sns.load_dataset('titanic')
 - [Jumana Almussa](https://github.com/jumana0)
 - [Afnan Alzahrani](https://github.com/AfnanAlzahrani)
 - [Batool Alhajaji](https://github.com/Batool247)
-- [Abdullah Huwaishel](https://github.com/Batool247)
+- [Abdullah Huwaishel](https://github.com/hush966)
 - [Amjad Almusallam](https://github.com/ASM650)
 
 # SDA - Data Analysts - Data Visualization - CodingDojo - Pandas
